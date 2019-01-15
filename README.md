@@ -1,1 +1,1 @@
-# icecat_build
+https://gitlab.com/Vlad-/gnuzilla
